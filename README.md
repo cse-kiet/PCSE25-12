@@ -1,4 +1,4 @@
-## Project Title: # [Crop Recommendation System Using Soil and Climate: A Comparative Study](https://crop-mate.vercel.app/)
+# Title of Project: [Crop Recommendation System Using Soil and Climate: A Comparative Study] (https://crop-mate.vercel.app/)
 
 ## Team Members:
 1. Alok
