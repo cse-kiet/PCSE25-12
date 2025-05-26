@@ -1,15 +1,77 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: CROP RECOMMENDATION SYSTEM USING SOIL AND CLIMATE: A COMPARATIVE STUDY 
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Alok Pal
+2. Alok
+3. Ankit Gupta
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+How to run
+To run CropMate on your local machine, follow these steps:
+
+1. Clone the Repository
+   ```bash
+   git clone https://github.com/your-username/cropmate.git
+   cd cropmate
+   ```
+
+
+2. Install Dependencies
+- **Server**
+   ```bash
+   cd server
+   npm install
+   ```
+
+- **Client**
+   ```bash
+  cd client
+  npm install
+   ````
+
+- **App**
+   ```bash
+   cd app
+  npm install
+   ````
+- **ML**
+   ```bash
+   pip install numpy
+   pip install pandas
+   pip install sklearn
+   pip install requests
+   pip install pickle
+   ````
+
+4. Set Up MongoDB
+Ensure you have MongoDB installed and running on your system. Update the MongoDB connection string in the server code if necessary.
+
+5. Start the Servers
+- Server
+  ```bash
+  cd server
+  npm start
+  ````
+  
+- **Client**
+   ```bash
+  cd client
+  npm run dev
+   ````
+
+- **App**
+   ```bash
+   cd app
+   npx expo start
+   ````
+- **ML**
+   ```bash
+   cd ml
+   python app.py 
+   ````
+
+6. Access the Application
+Web App: Open your web browser and go to http://localhost:3000
 
 ## Checklist:
 1. Final Project Report
