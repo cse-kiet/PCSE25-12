@@ -1,7 +1,12 @@
-# [CropMate - MERN, React Native, Flask, Machine Learning](https://crop-mate.vercel.app/)
+## Project Title: # [Crop Recommendation System Using Soil and Climate: A Comparative Study](https://crop-mate.vercel.app/)
+
+## Team Members:
+1. Alok
+2. Alok Pal
+3. Ankit Gupta
 
 > CropMate is a comprehensive agricultural project aimed at revolutionizing farming practices by leveraging technology and data-driven insights. It consists of several components, including a React web application, a mobile application developed using React Native, a server-side MERN Stack backend, and ensembled machine learning model for  precise recommendation for the crops based on soil parameters.
-
+##
 ## Features
 - **Crop Recommendation**: Utilizes machine learning algorithms to provide personalized crop recommendations based on soil and environmental data.
 - **RestAPIs**: Single API calls for both web app and mobile app
