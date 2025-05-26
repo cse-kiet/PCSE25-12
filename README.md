@@ -6,7 +6,7 @@
 3. Ankit Gupta
 
 ## Steps for Execution:
-How to run
+<h3>How to run</h3>
 To run CropMate on your local machine, follow these steps:
 
 1. Clone the Repository
